@@ -1,0 +1,1 @@
+zigbee2mqtt_cover_zemismart
